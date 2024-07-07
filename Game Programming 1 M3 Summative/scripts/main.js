@@ -9,7 +9,7 @@ var config = {
             debug: false // Enable debug mode
         }
     },
-    scene: [PreLoadScene, MainMenuScene, GameScene, CreditScene, GameOverScene, GameWinScene, PauseScene],
+    scene: [PreLoadScene, MainMenuScene, GameScene, CreditScene, GameOverScene, GameWinScene, PauseScene ],
     render: {
         pixelArt: true
     },

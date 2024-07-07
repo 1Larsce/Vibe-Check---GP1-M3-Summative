@@ -244,8 +244,8 @@ class GameScene extends Phaser.Scene {
         this.physics.add.collider(this.player, platformLayer);
 
         // Set world bounds to match the map size
-        this.physics.world.setBounds(0, 0, map.widthInPixels, map.heightInPixels);
-        this.cameras.main.setBounds(0, 0, map.widthInPixels, map.heightInPixels);
+        this.physics.world.setBounds(0, 0, 3200, 608);
+        this.cameras.main.setBounds(0, 0, 3200, 608);
         this.cameras.main.startFollow(this.player);
 
         // Input controls
@@ -314,6 +314,18 @@ class GameScene extends Phaser.Scene {
         this.toastyImage = this.add.image(config.width - 100, config.height - 100, 'toastyImage');
         this.toastyImage.setScale(0.5);
         this.toastyImage.setVisible(false);
+
+        // Add pink fog overlay
+        this.addFogOverlay();
+    }
+
+    addFogOverlay() {
+        const fogOverlay = this.add.graphics();
+        fogOverlay.fillStyle(0xff69b4, 0.11); // Adjust the color and alpha for intensity
+        fogOverlay.fillRect(0, 0, 3200, 608); // Cover the entire map
+
+        // Adjust the blend mode to give a retro synthwave effect
+        fogOverlay.setBlendMode(Phaser.BlendModes.ADD);
     }
 
     typewriterText(text, textObj) {
