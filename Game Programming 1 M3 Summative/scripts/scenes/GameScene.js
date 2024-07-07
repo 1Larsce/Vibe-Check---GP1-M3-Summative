@@ -288,7 +288,7 @@ class GameScene extends Phaser.Scene {
         this.introVoice.play();
 
         // Add intro text
-        this.introText = "Hey there, champ! Welcome to the game!\n\n It's me Lars!\n\nThe only voice speaking inside your head.\n\nNow, The rules are simple: collect all the coins before the time runs out to win.\n\nHere's a tip: time gems give you an extra 10 seconds.\n\nYou have 1 minute to complete the game.\n\nSo, Do you have what it takes?\n\nOh yeah?\n\nThen let's get started and do some vibe check!";
+        this.introText = "Hey there, champ! Welcome to the game!\n\n It's me Lars!\n\nThe only voice speaking inside your head.\n\nNow, The rules are simple: collect all the coins before the time runs out to win.\n\nHere's a tip: time gems give you an extra 10 seconds.\n\nYou have 1 minute to complete the game.\n\nSo, Do you have what it takes?\n\nOh yeah?\n\nThen let's get started and do some vibe check!\n\n\n\n [You can also Press P to Pause the Game.";
         this.introTextObj = this.add.text(config.width / 2, config.height / 2, "", { fontSize: '18px', fill: '#ffffff', align: 'center', wordWrap: { width: config.width - 40 } }).setOrigin(0.5);
         
         this.typewriterText(this.introText, this.introTextObj);
