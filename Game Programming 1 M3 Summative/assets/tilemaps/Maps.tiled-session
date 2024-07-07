@@ -1,0 +1,191 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Map1.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#64x32_spr_graffiti_01_strip4": {
+            "scaleInEditor": 1
+        },
+        "#decor": {
+            "scaleInEditor": 1
+        },
+        "#decor1": {
+            "scaleInEditor": 1
+        },
+        "Map1.json": {
+            "expandedObjectLayers": [
+                14,
+                15,
+                13
+            ],
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 578,
+                "y": 414.5
+            }
+        },
+        "Map1.json#alien1": {
+            "scaleInDock": 1
+        },
+        "Map1.json#antenna": {
+            "scaleInDock": 1
+        },
+        "Map1.json#barrel": {
+            "scaleInDock": 1
+        },
+        "Map1.json#bg1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.json#bg2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.json#bg3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.json#bg4": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.json#bgstars": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.json#decor": {
+            "scaleInDock": 1
+        },
+        "Map1.json#decor1": {
+            "scaleInDock": 1
+        },
+        "Map1.json#decor2": {
+            "scaleInDock": 1
+        },
+        "Map1.json#decor3": {
+            "scaleInDock": 1
+        },
+        "Map1.json#ground": {
+            "scaleInDock": 1
+        },
+        "Map1.json#moon": {
+            "scaleInDock": 1
+        },
+        "Map1.json#platform": {
+            "scaleInDock": 1
+        },
+        "Map1.tmx": {
+            "expandedObjectLayers": [
+                14
+            ],
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1140.9090909090908,
+                "y": 327.27272727272725
+            }
+        },
+        "Map1.tmx#alien1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#alien2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#alien3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#alien4": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#antenna": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#barrel": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#bg1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#bg2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#bg3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#bg4": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#bgstars": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#decor": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#decor1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#decor2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#decor3": {
+            "scaleInDock": 1
+        },
+        "Map1.tmx#ground": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Map1.tmx#moon": {
+            "scaleInDock": 1
+        },
+        "Map1.tmx#platform": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 500,
+    "last.exportedFilePath": "C:/Users/ROG PC/Desktop/finale/assets/tilemaps",
+    "last.imagePath": "C:/Users/ROG PC/Desktop/finale/assets/tilemaps",
+    "map.height": 38,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 75,
+    "openFiles": [
+        "Map1.json"
+    ],
+    "project": "Maps.tiled-project",
+    "recentFiles": [
+        "Map1.json",
+        "Map1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
